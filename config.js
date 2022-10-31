@@ -53,27 +53,27 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Whatsapp',
+			icon: 'message-circle',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Tasks',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://tasksboard.com/app',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Discord',
+			icon: 'bot',
+			link: 'https://discord.com/channels/@me',
 		},
 	],
 
@@ -135,24 +135,28 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'code-2',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Github',
+					link: 'https://github.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Odysee',
+					link: 'https://odysee.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Campaign Trail',
+					link: 'https://newcampaigntrail.github.io/newcampaigntrail/www.americanhistoryusa.com/campaign-trail/index.html',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'News',
+					link: 'https://ground.news/',
+				},
+				{
+					name: 'Wikipedia',
+					link: 'https://en.wikipedia.org/wiki/Main_Page',
 				},
 			],
 		},
@@ -161,20 +165,24 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Classroom',
+					link: 'https://classroom.google.com/',
 				},
 				{
-					name: 'Dribbble',
+					name: 'Notion',
 					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Managebac',
+					link: 'https://lutheranacademy.managebac.com/student',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Calendar',
+					link: 'https://calendar.google.com/calendar/u/0/r',
+				},
+				{
+					name: 'eNotice',
+					link: 'https://laeclass01.luac.edu.hk/templates/',
 				},
 			],
 		},
